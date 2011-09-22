@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+    <thumbs_small>200,200</thumbs_small>
+    <thumbs_big>400,400</thumbs_big>
+    <start_mode>folders</start_mode>
+    <locations>
+        <location>/media/vault_small/som/</location>
+    </locations>
+    <exts>mp3,flac,wma,ogg,m4a,mpc,wav</exts>
+    <overwrite_art>no</overwrite_art>
+    <rebuild_db>no</rebuild_db>
+    <fields_to_show>Title,Track,Artist,Date,Length,MyRating,MyPlaylist</fields_to_show>
+    <fft_folder>/media/vault_small/som/FFT/</fft_folder>
+</settings> 
+
